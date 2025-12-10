@@ -1,6 +1,6 @@
 # 开发者个人简历网站 (Developer Portfolio)
 
-基于 Vue 3 + TypeScript + Vite 构建的现代化个人简历网站。
+基于 Vue 3 + TypeScript + Vite 构建的现代化个人简历网站()。
 
 ## ✨ 特性
 
