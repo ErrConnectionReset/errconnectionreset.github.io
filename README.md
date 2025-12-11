@@ -1,6 +1,6 @@
 # 开发者个人简历网站 (Developer Portfolio)
 
-基于 Vue 3 + TypeScript + Vite 构建的现代化个人简历网站(。
+基于 Vue 3 + TypeScript + Vite 构建的现代化个人简历网站。
 
 ## ✨ 特性
 
@@ -49,11 +49,4 @@ npm run build
 
 ## 📦 部署
 
-本项目是一个纯静态站点，可以轻松部署到任何静态托管服务：
-
-- **GitHub Pages**
-- **Cloudflare Pages**
-- **Vercel**
-- **Netlify**
-
-只需要将 `dist` 目录上传即可。
+本项目是一个纯静态站点，可以轻松部署。
